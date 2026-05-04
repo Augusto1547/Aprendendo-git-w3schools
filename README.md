@@ -56,3 +56,13 @@ Dica Profissional: Use este comando apenas quando você tem certeza absoluta de 
 
 `Palavra chave antes de pensar em dar um commit: ` Se eu aplicar esse commit, 
 ele vai...
+
+`Mais dicas para dar um commit:`
+
+Um commit bem estruturado deve responder a três perguntas no seu corpo:
+
+Por que esta mudança é necessária?
+
+Como ela resolve o problema?
+
+Quais são os efeitos colaterais ou quebras de compatibilidade?
