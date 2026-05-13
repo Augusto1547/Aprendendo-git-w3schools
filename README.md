@@ -66,3 +66,5 @@ Por que esta mudança é necessária?
 Como ela resolve o problema?
 
 Quais são os efeitos colaterais ou quebras de compatibilidade?
+
+## Etiqueta leve
